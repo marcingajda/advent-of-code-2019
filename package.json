@@ -1,0 +1,10 @@
+{
+  "name": "code-of-adven-2019",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Marcin Gajda",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
